@@ -107,7 +107,7 @@ When designing an FPGA PCB projects with Altium Designer you can export a list o
 
 ## Usage
 ### Online
-An instance of this project will be hosted on [streamlit.io](https://streamlit.io/).
+An instance of this project is hosted on [streamlit.io](https://share.streamlit.io/cronologic-de/pinfile_conversion/main/pinfile_conversion.py).
 You can upload an Altium .csv pinout file for your FPGA and download the xdc.
 
 ### Local
