@@ -7,8 +7,15 @@ When designing an FPGA PCB projects with Altium Designer you can export a list o
 [cronologic GmbH & Co. KG](https://www.cronologic.de/) is using this utility in the development of its time-to-digital converters and digitizer boards.
 
 ## Usage
+### Online
 An instance of this project will be hosted on [streamlit.io](https://streamlit.io/).
 You can upload an Altium .csv pinout file for your FPGA and download the xdc or ucf.
+
+### Local
+To run the tool locally on your computer you need to have Python and Streaml.it installed. Copy `pinfile_conversion.py` to your computer or clone this repository and run
+```shell
+streamlit run pinfile_conversion.py
+```
 
 ## License
 
