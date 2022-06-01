@@ -103,9 +103,9 @@ Very simple Conversion tool from Altium pin files to Xilinx xdc constraints.
 ## Objective
 When designing an FPGA PCB projects with Altium Designer you can export a list of the FPGA pins. To make them usable with the Xilinx Vivado desing software, the file needs to be converted to a [Xilinx xdc constraints file](http://www.verien.com/xdc_reference_guide.html).  
 
-The uploaded '.csv' needs ot have the following Fprmat
+The uploaded '.csv' needs ot have the following Format
 * pin location in column 0
-* signal name in column 2
+* signal name in column 1
 * pin name in column 2
 
 [cronologic GmbH & Co. KG](https://www.cronologic.de/) is using this utility in the development of its time-to-digital converters and digitizer boards.
