@@ -50,7 +50,7 @@ Mit diesem Tool können Mitarbeitende bei [cronologic GmbH & Co. KG](https://www
 
 ## Verwendung
 ### Online
-Dieses Tool wird onlinge gehostet unter [streamlit.io](https://share.streamlit.io/cronologic-de/pinfile_conversion/main/pinfile_conversion.py).
+Dieses Tool wird online gehostet bei [Render](https://gleitzeitkonten.onrender.com/).
 
 
 ### Lokal
@@ -79,8 +79,8 @@ This Dienst wird bereitgestellt von:
     ++49 69 173 20 25 61
 
 ## Datenschutz
-Dieser Dienst wird bei Streamlit.io gehostet. Es gilt deren [Datenschutzerklärung](https://streamlit.io/privacy-policy).
-Cronologic hat keine Kontrolle darüber, wie Streamlit.io daten erhebt und hat auch keinen Zugang zu diesen Daten.
+Dieser Dienst wird bei remder.com gehostet. Es gilt deren [Datenschutzerklärung](https://render.com/privacy).
+Cronologic hat keine Kontrolle darüber, wie Render Daten erhebt und hat auch keinen Zugang zu diesen Daten.
 Cronologic selbst erhebt keine Daten in Verbindung mit diesem Dienst.
 Datenschutzveauftragter ist Kolja Sulimma. Er ist unter der oben angegebenen Addresse erreichbar.
 """
