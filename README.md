@@ -3,11 +3,8 @@ Mit diesem Tool können Mitarbeitende bei [cronologic GmbH & Co. KG](https://www
 
 ## Usage
 ### Online
-An instance of this project will be hosted on [streamlit.io](https://share.streamlit.io/cronologic-de/pinfile_conversion/main/pinfile_conversion.py).
-You can upload an Altium .csv pinout file for your FPGA and download the xdc.
-
-### Local
-To run the tool locally on your computer you need to have Python and Streaml.it installed. Copy `pinfile_conversion.py` to your computer or clone this repository and run
+Um das Tool lokal zu verwenden muss Python and Streaml.it installiert sein. 
+Kopiere `gleitzeitkonten.py` auf Deinen Computer - oder clone das GitHub repository - und führe dann das folgende Kommando aus:
 ```shell
 streamlit run gleitzeitkonten.py
 ```
