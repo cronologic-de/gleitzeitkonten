@@ -27,8 +27,8 @@ jahresbrutto = monatsbrutto*12
 
 st.header("Pro Jahr")
 res1, res2, res3 = st.columns(3)
-res1.metric("arbeiten", f"{arbeitsstunden}h")
-res2.metric("bezahlt", f"{bezahlte_stunden}h")
+res1.metric("arbeiten", f"{arbeitsstunden}h", f"{arbeitsstunden/12:.2f}h pro Monat")
+res2.metric("bezahlt", f"{bezahlte_stunden}h", f"{bezahlte_stunden/12:.2f}h pro Monat")
 
 locale.setlocale(locale.LC_ALL, '')
 locale._override_localeconv = {'mon_thousands_sep': '.'}
